@@ -1,2 +1,2 @@
-# WB-HW
-Whistler-Blackcomb Avionics and Teststand PCBs
+# WB-AV-4500-FC
+Whistler-Blackcomb Avionics Flight Computer PCB Altium Files
