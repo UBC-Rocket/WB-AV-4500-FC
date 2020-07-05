@@ -1,0 +1,28 @@
+PCAD Importer Log
+Project : MCP9808T-E_MS.LibPkg
+
+Section : C:\Users\Pablo Fernandez\Documents\UBC Rocket\WB\Apogee Detection\PCB\Libraries\MCP9808T-EMS\MCP9808T-E_MS.lia
+    Section : PCB Library - MCP9808T-E_MS.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token MCP9808T-E/MS On Line 124
+            Warning - 1 : Skipping Token attachedSymbol On Line 231
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - MCP9808T-E_MS.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 94
+            Warning - 1 : Skipping Token layerContents On Line 100
+            Warning - 1 : Skipping Token layerContents On Line 114
+            Warning - 1 : Skipping Token layerContents On Line 118
+        EndSection
+
+        Section : Generating SCH Library - MCP9808T-E_MS.SchLib
+        EndSection
+    EndSection
+EndSection
