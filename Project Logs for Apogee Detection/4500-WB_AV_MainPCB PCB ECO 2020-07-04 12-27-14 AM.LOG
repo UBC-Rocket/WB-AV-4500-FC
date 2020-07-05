@@ -1,0 +1,17 @@
+Removed Member From Class: ClassName=MK66F Member=R6
+Removed Member From Class: ClassName=WIZ850io_SCH_V100 Member=R8
+Change Component Comment : Designator=J1 Old Comment=5747847-4 New Comment=Component_1
+Change component parameters: Designator = "J1" ("J1"); Footprint = "SPGA48x11 - duplicate"; UniqueID = "\DOHJOKKO" ("\DOHJOKKO")
+Added Member To Class: ClassName=MK66F Member=Component C6 Cap Semi
+Added Member To Class: ClassName=MK66F Member=Component C7 Cap Semi
+Added Member To Class: ClassName=MK66F Member=Component C8 Cap Pol3
+Added Member To Class: ClassName=MK66F Member=Component C10 Cap Pol3
+Added Member To Class: ClassName=MK66F Member=Component D3 PMEG4010CPA
+Added Member To Class: ClassName=MK66F Member=Component FB3 Inductor
+Added Member To Class: ClassName=MK66F Member=Component J1 Component_1
+Added Member To Class: ClassName=MK66F Member=Component R1 Res3
+Added Member To Class: ClassName=MK66F Member=Component R3 Res3
+Added Member To Class: ClassName=MCP9808T Member=Component R4 Res3
+Added Member To Class: ClassName=MCP9808T Member=Component R5 Res3
+Added Member To Class: ClassName=MCP9808T Member=Component R7 Res3
+Added Member To Class: ClassName=MK66F Member=Component U2 Part Number: MK66FX1M0VLQ18

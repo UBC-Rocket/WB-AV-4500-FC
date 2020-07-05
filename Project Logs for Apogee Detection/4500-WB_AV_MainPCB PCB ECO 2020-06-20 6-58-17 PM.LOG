@@ -1,0 +1,34 @@
+Added Component: Designator=U1(WIZ-QFN-48_L)
+Add component (AddParameter): Name = "Auto-Negotiation"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Communication Mode"; Value = "FullDuplex,HalfDuplex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data Rate"; Value = "10Mbit/s,100Mbit/s"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/19465/2132496-19465995.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. 1.2.1, 08/2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dimensions"; Value = "7x7x0.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Host Interface"; Value = "SPI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Loopback Mode"; Value = "Internal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "WIZnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.wiznet.co.kr/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Operating Temperature"; Value = "+85C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Operating Temperature"; Value = "-40C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Network Interface"; Value = "MDI/MDIX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "48-Pin Quad Flat No-lead Package, Body 7 x 7 mm, Pitch 0.5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "QFN-48"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "QFN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Physical Network Type"; Value = "100BaseTX,10BaseT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "48"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Typical Operating Supply Voltage"; Value = "3.63Vdc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "7mm"; VariantName = "[No Variations]"
+Added Class: Name=W5200
+Added Member To Class: ClassName=MCP9808T Member=Component C11 Cap Semi
+Added Member To Class: ClassName=MCP9808T Member=Component R3 Res3
+Added Member To Class: ClassName=MCP9808T Member=Component R4 Res3
+Added Member To Class: ClassName=MCP9808T Member=Component R5 Res3
+Added Member To Class: ClassName=MCP9808T Member=Component R6 Res3
+Added Member To Class: ClassName=MCP9808T Member=Component R7 Res3
+Added Member To Class: ClassName=MCP9808T Member=Component U4 MCP9808T-E/MS
+Added Room: Name=W5200
