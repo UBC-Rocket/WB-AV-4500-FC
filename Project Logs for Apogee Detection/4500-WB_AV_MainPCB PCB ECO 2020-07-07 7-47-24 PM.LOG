@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=3.3V Pin=J1-1
+Change Net Name : Old Net Name=GND New Net Name=VSS
+Added Pin To Net: NetName=NetLabel3 Pin=J1-2
+Added Net: Name=NetLabel3
+Added Pin To Net: NetName=NetLabel4 Pin=J1-3
+Added Net: Name=NetLabel4
+Added Pin To Net: NetName=NetLabel5 Pin=J1-4
+Added Net: Name=NetLabel5
+Added Pin To Net: NetName=NetLabel6 Pin=J1-5
+Added Net: Name=NetLabel6
+Added Pin To Net: NetName=NetLabel7 Pin=J1-6
+Added Net: Name=NetLabel7
+Added Pin To Net: NetName=NetLabel8 Pin=J1-7
+Added Pin To Net: NetName=NetLabel8 Pin=J1-7
+Added Pin To Net: NetName=NetLabel8 Pin=J1-7
+Added Net: Name=NetLabel8
+Added Pin To Net: NetName=NetLabel9 Pin=J1-8
+Added Net: Name=NetLabel9
+Added Pin To Net: NetName=NetLabel10 Pin=J1-9
+Added Net: Name=NetLabel10
+Added Pin To Net: NetName=NetLabel11 Pin=J1-10
+Added Net: Name=NetLabel11

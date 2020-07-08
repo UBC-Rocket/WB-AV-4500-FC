@@ -1,0 +1,184 @@
+Added Pin To Net: NetName=NetC7_2 Pin=D1-3
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=GND Pin=U2-6
+Added Pin To Net: NetName=GND Pin=U2-17
+Added Pin To Net: NetName=GND Pin=U2-18
+Added Pin To Net: NetName=3.3V Pin=U2-43
+Added Pin To Net: NetName=GND Pin=U2-44
+Added Pin To Net: NetName=3.3V Pin=U2-56
+Added Pin To Net: NetName=GND Pin=U2-57
+Added Pin To Net: NetName=GND Pin=U2-71
+Added Pin To Net: NetName=GND Pin=U2-93
+Added Pin To Net: NetName=GND Pin=U2-107
+Added Pin To Net: NetName=GND Pin=U2-121
+Added Pin To Net: NetName=GND Pin=U2-134
+Change Net Name : Old Net Name=CMP2_IN2 New Net Name=ADC0_SE22
+Change Net Name : Old Net Name=NetLabel51 New Net Name=ADC0_SE21
+Added Pin To Net: NetName=ADC0_SE23 Pin=U2-38
+Added Net: Name=ADC0_SE23
+Added Pin To Net: NetName=ADC1_SE18 Pin=U2-37
+Added Net: Name=ADC1_SE18
+Added Pin To Net: NetName=ADC1_SE23 Pin=U2-39
+Added Net: Name=ADC1_SE23
+Added Pin To Net: NetName=PTA4 Pin=U2-54
+Added Net: Name=PTA4
+Added Pin To Net: NetName=PTA5 Pin=U2-55
+Added Net: Name=PTA5
+Added Pin To Net: NetName=PTA6 Pin=U2-58
+Added Net: Name=PTA6
+Added Pin To Net: NetName=PTA7 Pin=U2-59
+Added Net: Name=PTA7
+Added Pin To Net: NetName=PTA8 Pin=U2-60
+Added Net: Name=PTA8
+Added Pin To Net: NetName=PTA9 Pin=U2-61
+Added Net: Name=PTA9
+Added Pin To Net: NetName=PTA10 Pin=U2-62
+Added Net: Name=PTA10
+Added Pin To Net: NetName=PTA11 Pin=U2-63
+Added Net: Name=PTA11
+Added Pin To Net: NetName=PTA12 Pin=U2-64
+Added Net: Name=PTA12
+Added Pin To Net: NetName=PTA13 Pin=U2-65
+Added Net: Name=PTA13
+Added Pin To Net: NetName=PTA14 Pin=U2-66
+Added Net: Name=PTA14
+Added Pin To Net: NetName=PTA15 Pin=U2-67
+Added Net: Name=PTA15
+Added Pin To Net: NetName=PTA16 Pin=U2-68
+Added Net: Name=PTA16
+Added Pin To Net: NetName=PTA17 Pin=U2-69
+Added Net: Name=PTA17
+Added Pin To Net: NetName=PTA24 Pin=U2-75
+Added Net: Name=PTA24
+Added Pin To Net: NetName=PTA25 Pin=U2-76
+Added Net: Name=PTA25
+Added Pin To Net: NetName=PTA26 Pin=U2-77
+Added Net: Name=PTA26
+Added Pin To Net: NetName=PTA27 Pin=U2-78
+Added Net: Name=PTA27
+Added Pin To Net: NetName=PTA28 Pin=U2-79
+Added Net: Name=PTA28
+Added Pin To Net: NetName=PTA29 Pin=U2-80
+Added Net: Name=PTA29
+Added Pin To Net: NetName=PTB0 Pin=U2-81
+Added Net: Name=PTB0
+Added Pin To Net: NetName=PTB1 Pin=U2-82
+Added Net: Name=PTB1
+Added Pin To Net: NetName=PTB2 Pin=U2-83
+Added Net: Name=PTB2
+Added Pin To Net: NetName=PTB3 Pin=U2-84
+Added Net: Name=PTB3
+Added Pin To Net: NetName=PTB4 Pin=U2-85
+Added Net: Name=PTB4
+Added Pin To Net: NetName=PTB5 Pin=U2-86
+Added Net: Name=PTB5
+Added Pin To Net: NetName=PTB6 Pin=U2-87
+Added Net: Name=PTB6
+Added Pin To Net: NetName=PTB7 Pin=U2-88
+Added Net: Name=PTB7
+Added Pin To Net: NetName=PTB8 Pin=U2-89
+Added Net: Name=PTB8
+Added Pin To Net: NetName=PTB9 Pin=U2-90
+Added Net: Name=PTB9
+Added Pin To Net: NetName=PTB10 Pin=U2-91
+Added Net: Name=PTB10
+Added Pin To Net: NetName=PTB11 Pin=U2-92
+Added Net: Name=PTB11
+Added Pin To Net: NetName=PTB16 Pin=U2-95
+Added Net: Name=PTB16
+Added Pin To Net: NetName=PTB17 Pin=U2-96
+Added Net: Name=PTB17
+Added Pin To Net: NetName=PTB18 Pin=U2-97
+Added Net: Name=PTB18
+Added Pin To Net: NetName=PTB19 Pin=U2-98
+Added Net: Name=PTB19
+Added Pin To Net: NetName=PTB20 Pin=U2-99
+Added Net: Name=PTB20
+Added Pin To Net: NetName=PTB21 Pin=U2-100
+Added Net: Name=PTB21
+Added Pin To Net: NetName=PTB22 Pin=U2-101
+Added Net: Name=PTB22
+Added Pin To Net: NetName=PTB23 Pin=U2-102
+Added Net: Name=PTB23
+Added Pin To Net: NetName=PTC0 Pin=U2-103
+Added Net: Name=PTC0
+Added Pin To Net: NetName=PTC1 Pin=U2-104
+Added Net: Name=PTC1
+Added Pin To Net: NetName=PTC2 Pin=U2-105
+Added Net: Name=PTC2
+Added Pin To Net: NetName=PTC3 Pin=U2-106
+Added Net: Name=PTC3
+Added Pin To Net: NetName=PTC4 Pin=U2-109
+Added Net: Name=PTC4
+Added Pin To Net: NetName=PTC5 Pin=U2-110
+Added Net: Name=PTC5
+Added Pin To Net: NetName=PTC6 Pin=U2-111
+Added Net: Name=PTC6
+Added Pin To Net: NetName=PTC7 Pin=U2-112
+Added Net: Name=PTC7
+Added Pin To Net: NetName=PTC8 Pin=U2-113
+Added Net: Name=PTC8
+Added Pin To Net: NetName=PTC9 Pin=U2-114
+Added Net: Name=PTC9
+Added Pin To Net: NetName=PTC10 Pin=U2-115
+Added Net: Name=PTC10
+Added Pin To Net: NetName=PTC11 Pin=U2-116
+Added Net: Name=PTC11
+Added Pin To Net: NetName=PTC12 Pin=U2-117
+Added Net: Name=PTC12
+Added Pin To Net: NetName=PTC13 Pin=U2-118
+Added Net: Name=PTC13
+Added Pin To Net: NetName=PTC14 Pin=U2-119
+Added Net: Name=PTC14
+Added Pin To Net: NetName=PTC15 Pin=U2-120
+Added Net: Name=PTC15
+Added Pin To Net: NetName=PTC16 Pin=U2-123
+Added Net: Name=PTC16
+Added Pin To Net: NetName=PTC17 Pin=U2-124
+Added Net: Name=PTC17
+Added Pin To Net: NetName=PTC18 Pin=U2-125
+Added Net: Name=PTC18
+Added Pin To Net: NetName=PTC19 Pin=U2-126
+Added Net: Name=PTC19
+Added Pin To Net: NetName=PTD0 Pin=U2-127
+Added Net: Name=PTD0
+Added Pin To Net: NetName=PTD1 Pin=U2-128
+Added Net: Name=PTD1
+Added Pin To Net: NetName=PTD2 Pin=U2-129
+Added Net: Name=PTD2
+Added Pin To Net: NetName=PTD3 Pin=U2-130
+Added Net: Name=PTD3
+Added Pin To Net: NetName=PTD4 Pin=U2-131
+Added Net: Name=PTD4
+Added Pin To Net: NetName=PTD5 Pin=U2-132
+Added Net: Name=PTD5
+Added Pin To Net: NetName=PTD6 Pin=U2-133
+Added Net: Name=PTD6
+Added Pin To Net: NetName=PTD7 Pin=U2-136
+Added Net: Name=PTD7
+Added Pin To Net: NetName=PTD8 Pin=U2-137
+Added Net: Name=PTD8
+Added Pin To Net: NetName=PTD9 Pin=U2-138
+Added Net: Name=PTD9
+Added Pin To Net: NetName=PTD10 Pin=U2-139
+Added Net: Name=PTD10
+Added Pin To Net: NetName=PTD11 Pin=U2-140
+Added Net: Name=PTD11
+Added Pin To Net: NetName=PTD12 Pin=U2-141
+Added Net: Name=PTD12
+Added Pin To Net: NetName=PTD13 Pin=U2-142
+Added Net: Name=PTD13
+Added Pin To Net: NetName=PTD14 Pin=U2-143
+Added Net: Name=PTD14
+Added Pin To Net: NetName=PTD15 Pin=U2-144
+Added Net: Name=PTD15
+Added Pin To Net: NetName=PTE24 Pin=U2-45
+Added Net: Name=PTE24
+Added Pin To Net: NetName=PTE25 Pin=U2-46
+Added Net: Name=PTE25
+Added Pin To Net: NetName=PTE26 Pin=U2-47
+Added Net: Name=PTE26
+Added Pin To Net: NetName=PTE27 Pin=U2-48
+Added Net: Name=PTE27
+Added Pin To Net: NetName=PTE28 Pin=U2-49
+Added Net: Name=PTE28
