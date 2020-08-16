@@ -667,6 +667,23 @@ GenerateClassCluster=0
 DocumentUniqueId=DIXJXKGS
 
 [Document38]
+DocumentPath=LTC6820.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PDIMQFVA
+
+[Document39]
 DocumentPath=MK66F.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -683,7 +700,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XHOHBTEE
 
-[Document39]
+[Document40]
 DocumentPath=Libraries\PMEG4010CPA\Imported PMEG4010CPA.lia\PMEG4010CPA.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -700,7 +717,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UNBDASVB
 
-[Document40]
+[Document41]
 DocumentPath=Libraries\B5819WS-TP\DIODE SCHOTTKY 40V 1A SOD323.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -717,7 +734,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GWNQIPUE
 
-[Document41]
+[Document42]
 DocumentPath=Libraries\FDMS86101A\FDMS86101A.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -734,7 +751,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LAQFEYOF
 
-[Document42]
+[Document43]
 DocumentPath=Libraries\S1B\S1B.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -751,7 +768,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PTCXLDDM
 
-[Document43]
+[Document44]
 DocumentPath=Libraries\MOC207M\MOC207M.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -768,7 +785,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TDJSNHAA
 
-[Document44]
+[Document45]
 DocumentPath=Libraries\MOC207M\MOC207M.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -785,7 +802,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IRSSCYNN
 
-[Document45]
+[Document46]
 DocumentPath=Libraries\Harwin Connectors\Harwin Connectors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -802,7 +819,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NRCESOWB
 
-[Document46]
+[Document47]
 DocumentPath=Libraries\Harting Connectors\Harting Connectors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -819,7 +836,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OFSKHUOQ
 
-[Document47]
+[Document48]
 DocumentPath=Apogee Detection.Annotation
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -836,7 +853,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document48]
+[Document49]
 DocumentPath=MCP9808T.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -853,7 +870,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SMMZLAKA
 
-[Document49]
+[Document50]
 DocumentPath=Libraries\Harting Connectors\77-pin.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -870,7 +887,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EVWWCQZF
 
-[Document50]
+[Document51]
 DocumentPath=Libraries\MCT0603MD4701BP100.pcblib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -887,7 +904,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XBGMBTBI
 
-[Document51]
+[Document52]
 DocumentPath=Libraries\MCT06030C3300FP500.pcblib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -904,7 +921,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AYMWPQIR
 
-[Document52]
+[Document53]
 DocumentPath=Libraries\CRCW060310R0FKEA.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -921,7 +938,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HVCNWQDD
 
-[Document53]
+[Document54]
 DocumentPath=Libraries\CRCW060333R0FKEA.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -938,7 +955,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XLKPSOAD
 
-[Document54]
+[Document55]
 DocumentPath=Libraries\TNPW060349R9BEEA.pcblib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -955,7 +972,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LUVYHORG
 
-[Document55]
+[Document56]
 DocumentPath=Libraries\CRCW060312K4FKEAHP.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -972,7 +989,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UWDFGKAA
 
-[Document56]
+[Document57]
 DocumentPath=Libraries\CRCW06031M00FKEA.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -989,7 +1006,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BYWUVPBJ
 
-[Document57]
+[Document58]
 DocumentPath=Libraries\CRCW06030000Z0EAC.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1006,7 +1023,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BNUCCEFN
 
-[Document58]
+[Document59]
 DocumentPath=Libraries\06035C102KAT2A.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1023,7 +1040,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YLCIDGRH
 
-[Document59]
+[Document60]
 DocumentPath=Libraries\06033C223KAT2A.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1040,7 +1057,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IJRTWMYB
 
-[Document60]
+[Document61]
 DocumentPath=Libraries\06031C682KAT2A.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1057,7 +1074,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SPOEWVGI
 
-[Document61]
+[Document62]
 DocumentPath=Libraries\06035C103KAT2A.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1074,7 +1091,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UOTENFIL
 
-[Document62]
+[Document63]
 DocumentPath=Libraries\EMK107BBJ106MA-T.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1091,7 +1108,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QEKTCLBT
 
-[Document63]
+[Document64]
 DocumentPath=Libraries\06033C104JAT2A.pcblib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1108,7 +1125,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ADDFUBKB
 
-[Document64]
+[Document65]
 DocumentPath=Libraries\06036D475KAT2A.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1125,7 +1142,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IYVDUHGN
 
-[Document65]
+[Document66]
 DocumentPath=Libraries\06031A180JAT2A.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1142,7 +1159,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JUUBWTYI
 
-[Document66]
+[Document67]
 DocumentPath=MCU_Power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
