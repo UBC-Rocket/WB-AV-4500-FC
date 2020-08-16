@@ -1,0 +1,12 @@
+Remove Pin=J4-3 From Net=MOSI
+Remove Pin=J4-4 From Net=SCLK
+Remove Pin=J5-6 From Net=MISO
+Remove Pin=U5-25 From Net=LINK_LED
+Remove Pin=U5-27 From Net=ACT_LED
+Remove Pin=U5-32 From Net=SCSn
+Remove Pin=U5-33 From Net=SCLK
+Remove Pin=U5-34 From Net=MISO
+Remove Pin=U5-35 From Net=MOSI
+Remove Pin=U5-36 From Net=INTn
+Remove Pin=U5-37 From Net=RSTn
+Add Pin To Net: Pin=U1-7 Old Net=BSWDIO New Net=PTA3

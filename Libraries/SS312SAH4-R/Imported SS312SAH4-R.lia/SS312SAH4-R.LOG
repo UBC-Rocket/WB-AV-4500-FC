@@ -1,0 +1,29 @@
+PCAD Importer Log
+Project : SS312SAH4-R.LibPkg
+
+Section : C:\Users\Pablo Fernandez\Documents\UBC Rocket\WB\4501-WB_AV_BMS\Libraries\SS312SAH4-R\SS312SAH4-R.lia
+    Section : PCB Library - SS312SAH4-R.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token SS312SAH4-R On Line 176
+            Warning - 1 : Skipping Token attachedSymbol On Line 240
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - SS312SAH4-R.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 103
+            Warning - 1 : Skipping Token layerContents On Line 126
+            Warning - 1 : Skipping Token layerContents On Line 149
+            Warning - 1 : Skipping Token layerContents On Line 160
+        EndSection
+
+        Section : Generating SCH Library - SS312SAH4-R.SchLib
+        EndSection
+    EndSection
+EndSection
