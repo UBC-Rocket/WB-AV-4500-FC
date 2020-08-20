@@ -1,0 +1,13 @@
+Added Component: Designator=C13(0603)
+Added Component: Designator=U?(MSOP-16_MS)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ltc6820hms#pbf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Linear Technology"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3V_A Pin=C13-1
+Added Pin To Net: NetName=AGND Pin=C13-2
+Added Class: Name=LTC6820
+Added Member To Class: ClassName=WIZ850io_SCH_V100 Member=Component C13 10uF/16V
+Added Room: Name=LTC6820
