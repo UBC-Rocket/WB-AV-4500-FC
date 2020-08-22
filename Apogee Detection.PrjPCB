@@ -667,6 +667,23 @@ GenerateClassCluster=0
 DocumentUniqueId=DIXJXKGS
 
 [Document38]
+DocumentPath=Temp_Sensor.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=2
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SMMZLAKA
+
+[Document39]
 DocumentPath=LTC6820.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -683,7 +700,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PDIMQFVA
 
-[Document39]
+[Document40]
 DocumentPath=MK66F.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -700,7 +717,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XHOHBTEE
 
-[Document40]
+[Document41]
 DocumentPath=Libraries\PMEG4010CPA\Imported PMEG4010CPA.lia\PMEG4010CPA.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -717,7 +734,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UNBDASVB
 
-[Document41]
+[Document42]
 DocumentPath=Libraries\B5819WS-TP\DIODE SCHOTTKY 40V 1A SOD323.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -734,7 +751,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GWNQIPUE
 
-[Document42]
+[Document43]
 DocumentPath=Libraries\FDMS86101A\FDMS86101A.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -751,7 +768,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LAQFEYOF
 
-[Document43]
+[Document44]
 DocumentPath=Libraries\S1B\S1B.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -768,7 +785,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PTCXLDDM
 
-[Document44]
+[Document45]
 DocumentPath=Libraries\MOC207M\MOC207M.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -785,7 +802,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TDJSNHAA
 
-[Document45]
+[Document46]
 DocumentPath=Libraries\MOC207M\MOC207M.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -802,7 +819,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IRSSCYNN
 
-[Document46]
+[Document47]
 DocumentPath=Libraries\Harwin Connectors\Harwin Connectors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -819,7 +836,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NRCESOWB
 
-[Document47]
+[Document48]
 DocumentPath=Libraries\Harting Connectors\Harting Connectors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -836,7 +853,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OFSKHUOQ
 
-[Document48]
+[Document49]
 DocumentPath=Apogee Detection.Annotation
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -852,23 +869,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
-
-[Document49]
-DocumentPath=MCP9808T.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=2
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=SMMZLAKA
 
 [Document50]
 DocumentPath=Libraries\Harting Connectors\77-pin.SchLib
@@ -1160,23 +1160,6 @@ GenerateClassCluster=0
 DocumentUniqueId=JUUBWTYI
 
 [Document67]
-DocumentPath=MCU_Power.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=4
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=YXTNYZXB
-
-[Document68]
 DocumentPath=CANbus.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1193,7 +1176,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EUJXKIYP
 
-[Document69]
+[Document68]
 DocumentPath=Libraries\TJA1048\TJA1048.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1210,14 +1193,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ECZPDHGU
 
-[Document70]
+[Document69]
 DocumentPath=Flight_Computer.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=7
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
