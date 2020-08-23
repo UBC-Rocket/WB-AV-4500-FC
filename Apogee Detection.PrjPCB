@@ -650,7 +650,7 @@ GenerateClassCluster=0
 DocumentUniqueId=EVONOYIH
 
 [Document37]
-DocumentPath=WIZ850io_SCH_V100.SchDoc
+DocumentPath=Eth_to_SPI.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
