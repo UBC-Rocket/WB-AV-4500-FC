@@ -1,1 +1,6 @@
-Record=TopLevelDocument|FileName=MCP9808T.SchDoc
+Record=TopLevelDocument|FileName=Flight_Computer.SchDoc
+Record=SheetSymbol|SourceDocument=Flight_Computer.SchDoc|Designator=CAN_bus|SchDesignator=CAN_bus|FileName=CANbus.SchDoc|SymbolType=Normal|RawFileName=CANbus.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Flight_Computer.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=Eth_to_SPI.SchDoc|SymbolType=Normal|RawFileName=Eth_to_SPI.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Flight_Computer.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=Temp_Sensor.SchDoc|SymbolType=Normal|RawFileName=Temp_Sensor.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Flight_Computer.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=MK66F.SchDoc|SymbolType=Normal|RawFileName=MK66F.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Flight_Computer.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=LTC6820.SchDoc|SymbolType=Normal|RawFileName=LTC6820.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
