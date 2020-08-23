@@ -1058,6 +1058,23 @@ GenerateClassCluster=0
 DocumentUniqueId=IJRTWMYB
 
 [Document61]
+DocumentPath=Libraries\Molex Connectors\Molex Connectors.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=FEWSCHWN
+
+[Document62]
 DocumentPath=Libraries\06031C682KAT2A.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1074,7 +1091,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SPOEWVGI
 
-[Document62]
+[Document63]
 DocumentPath=Libraries\06035C103KAT2A.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1091,7 +1108,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UOTENFIL
 
-[Document63]
+[Document64]
 DocumentPath=Libraries\EMK107BBJ106MA-T.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1108,7 +1125,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QEKTCLBT
 
-[Document64]
+[Document65]
 DocumentPath=Libraries\06033C104JAT2A.pcblib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1125,7 +1142,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ADDFUBKB
 
-[Document65]
+[Document66]
 DocumentPath=Libraries\06036D475KAT2A.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1142,7 +1159,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IYVDUHGN
 
-[Document66]
+[Document67]
 DocumentPath=Libraries\06031A180JAT2A.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1159,7 +1176,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JUUBWTYI
 
-[Document67]
+[Document68]
 DocumentPath=CANbus.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1176,7 +1193,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EUJXKIYP
 
-[Document68]
+[Document69]
 DocumentPath=Libraries\TJA1048\TJA1048.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1193,7 +1210,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ECZPDHGU
 
-[Document69]
+[Document70]
 DocumentPath=Flight_Computer.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
