@@ -1,0 +1,19 @@
+Remove Pin=J4-3 From Net=MOSI
+Remove Pin=J4-4 From Net=SCLK
+Remove Pin=J5-6 From Net=MISO
+Remove Pin=U2-4 From Net=Reset_b
+Remove Pin=U2-6 From Net=PTA1
+Remove Pin=U2-7 From Net=BSWDIO
+Remove Pin=U5-25 From Net=LINK_LED
+Remove Pin=U5-27 From Net=ACT_LED
+Remove Pin=U5-32 From Net=SCSn
+Remove Pin=U5-33 From Net=SCLK
+Remove Pin=U5-34 From Net=MISO
+Remove Pin=U5-35 From Net=MOSI
+Remove Pin=U5-36 From Net=INTn
+Remove Pin=U5-37 From Net=RSTn
+Change Pin Designator/Name:  Old Designator=U2-1 Old Name=VDDVREFH New Designator =PTA4 New Name=4
+Change Pin Designator/Name:  Old Designator=U2-4 Old Name=Vout New Designator =PTA5 New Name=5
+Change Pin Designator/Name:  Old Designator=U2-7 Old Name=7 New Designator =PTA7/IRQ_4 New Name=7
+Change Pin Designator/Name:  Old Designator=U2-1 Old Name=Vin New Designator =VDDVREFH New Name=1
+Change Pin Designator/Name:  Old Designator=U2-6 Old Name=Vin New Designator =PTA6 New Name=6
