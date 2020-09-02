@@ -701,7 +701,7 @@ GenerateClassCluster=0
 DocumentUniqueId=PDIMQFVA
 
 [Document40]
-DocumentPath=MK66F.SchDoc
+DocumentPath=MCU.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
