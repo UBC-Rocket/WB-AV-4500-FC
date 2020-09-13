@@ -1,4 +1,4 @@
-﻿[Design]
+[Design]
 Version=1.0
 HierarchyMode=2
 ChannelRoomNamingStyle=0
@@ -480,7 +480,7 @@ GenerateClassCluster=0
 DocumentUniqueId=XPAOQREN
 
 [Document27]
-DocumentPath=Libraries\W5500\SnapEDApcb.PcbLib
+DocumentPath=Libraries\W5500\W5500.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1431,7 +1431,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=\\MIDDLE\EPSON XP-7100 Series
+TargetPrinter=Hewlett-Packard hp LaserJet 4250
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
