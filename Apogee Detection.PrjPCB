@@ -775,7 +775,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=10
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -1177,6 +1177,23 @@ GenerateClassCluster=0
 DocumentUniqueId=MYMXGJPM
 
 [Document68]
+DocumentPath=Libraries\QFN50P300X300X100-17N\Imported QFN50P300X300X100-17N.lia\QFN50P300X300X100-17N.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=RVISTQGS
+
+[Document69]
 DocumentPath=Libraries\06031C682KAT2A.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1193,7 +1210,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SPOEWVGI
 
-[Document69]
+[Document70]
 DocumentPath=Libraries\06035C103KAT2A.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1210,7 +1227,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UOTENFIL
 
-[Document70]
+[Document71]
 DocumentPath=Libraries\EMK107BBJ106MA-T.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1227,7 +1244,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QEKTCLBT
 
-[Document71]
+[Document72]
 DocumentPath=Libraries\06033C104JAT2A.pcblib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1244,7 +1261,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ADDFUBKB
 
-[Document72]
+[Document73]
 DocumentPath=Libraries\06036D475KAT2A.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1261,7 +1278,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IYVDUHGN
 
-[Document73]
+[Document74]
 DocumentPath=Libraries\06031A180JAT2A.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1278,7 +1295,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JUUBWTYI
 
-[Document74]
+[Document75]
 DocumentPath=CANbus.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1295,7 +1312,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EUJXKIYP
 
-[Document75]
+[Document76]
 DocumentPath=Libraries\TJA1048\TJA1048.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1312,7 +1329,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ECZPDHGU
 
-[Document76]
+[Document77]
 DocumentPath=Flight_Computer.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1329,7 +1346,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FUQBMPJF
 
-[Document77]
+[Document78]
 DocumentPath=Radio_XBP9X_DMRS_001.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1346,7 +1363,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IGBVIFAE
 
-[Document78]
+[Document79]
 DocumentPath=STIM300IMU.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
