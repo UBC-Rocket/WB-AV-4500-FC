@@ -1,0 +1,10 @@
+Added Component: Designator=U?(7 PIN PFM)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog-live.we-online.de/pm/datasheet/171032401.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wuerth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "7 PIN PFM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "171032401"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ui"; Value = "6-42 V"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=MCU_Power Member=Component U? 171032401

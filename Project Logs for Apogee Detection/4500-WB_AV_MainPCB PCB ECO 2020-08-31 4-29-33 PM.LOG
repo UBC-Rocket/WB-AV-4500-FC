@@ -1,0 +1,67 @@
+Removed Pin From Net: NetName=RSTn Pin=R11-1
+Removed Pin From Net: NetName=NetC9_1 Pin=U2-1
+Removed Pin From Net: NetName=3.3V Pin=U2-5
+Removed Pin From Net: NetName=GND Pin=U2-7
+Added Component: Designator=D4(ONSC-SOT-23-3-318-08_V)
+Add component (AddParameter): Name = "C Max (pF)"; Value = "30"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.onsemi.cn/pub_link/Collateral/NUP2105L-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.onsemi.cn/pub_link/Collateral/318-08.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Direction"; Value = "Bidirectional"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IR Max (uA)"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "On Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Lines"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "3-Pin Small Outline Transistor, Body 2.92 x 1.3 mm, Pitch 0.95 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SOT-23-3-318-08"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. AP, 11/2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "NUP2105LT1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PPK Max (W)"; Value = "350"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Pb-Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "V(BR) Min (V)"; Value = "26.2"; VariantName = "[No Variations]"
+Added Component: Designator=D5(ONSC-SOT-23-3-318-08_V)
+Add component (AddParameter): Name = "C Max (pF)"; Value = "30"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.onsemi.cn/pub_link/Collateral/NUP2105L-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.onsemi.cn/pub_link/Collateral/318-08.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Direction"; Value = "Bidirectional"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IR Max (uA)"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "On Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Lines"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "3-Pin Small Outline Transistor, Body 2.92 x 1.3 mm, Pitch 0.95 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SOT-23-3-318-08"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. AP, 11/2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "NUP2105LT1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PPK Max (W)"; Value = "350"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Pb-Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "V(BR) Min (V)"; Value = "26.2"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CAN1_P Pin=D4-1
+Added Pin To Net: NetName=CAN1_N Pin=D4-2
+Added Pin To Net: NetName=GND Pin=D4-3
+Added Pin To Net: NetName=CAN2_P Pin=D5-1
+Added Pin To Net: NetName=CAN2_N Pin=D5-2
+Added Pin To Net: NetName=GND Pin=D5-3
+Added Pin To Net: NetName=RSTn Pin=U1-130
+Added Pin To Net: NetName=3.3V Pin=U2-1
+Added Pin To Net: NetName=NetC9_1 Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=3.3V Pin=U2-4
+Added Pin To Net: NetName=3.3V Pin=U2-5
+Added Pin To Net: NetName=NetC9_1 Pin=U2-6
+Added Pin To Net: NetName=BSWDIO Pin=U2-7
+Added Pin To Net: NetName=GND Pin=U2-7
+Added Member To Class: ClassName=CANbus Member=Component D4 NUP2105LT1G
+Added Member To Class: ClassName=CANbus Member=Component D5 NUP2105LT1G
+Added Member To Class: ClassName=MK66F Member=Component P2 Header 3
+Added Member To Class: ClassName=MK66F Member=Component U2 Part Number: MKL02Z32VFG4
