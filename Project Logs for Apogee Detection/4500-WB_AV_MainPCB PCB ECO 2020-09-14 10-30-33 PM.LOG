@@ -1,0 +1,61 @@
+Removed Member From Class: ClassName=CANbus Member=C2
+Removed Member From Class: ClassName=Radio Member=C2
+Removed Member From Class: ClassName=MCU_Power Member=C5
+Removed Member From Class: ClassName=MCU_Power Member=C6
+Removed Member From Class: ClassName=Eth_to_SPI Member=C12
+Removed Member From Class: ClassName=MCU_Power Member=C12
+Removed Member From Class: ClassName=MCU Member=C16
+Removed Member From Class: ClassName=MCU Member=C17
+Removed Member From Class: ClassName=Temp_Sensor Member=C17
+Removed Member From Class: ClassName=Eth_to_SPI Member=C29
+Removed Member From Class: ClassName=CANbus Member=C36
+Removed Member From Class: ClassName=Eth_to_SPI Member=C36
+Removed Member From Class: ClassName=MCU Member=C38
+Removed Member From Class: ClassName=MCU Member=C43
+Removed Member From Class: ClassName=Eth_to_SPI Member=J5
+Removed Member From Class: ClassName=Eth_to_SPI Member=L1
+Removed Member From Class: ClassName=Eth_to_SPI Member=R30
+Removed Member From Class: ClassName=isoSPI_to_SPI Member=U4
+Removed Member From Class: ClassName=Temp_Sensor Member=U4
+Removed Member From Class: ClassName=STIM300IMU Member=U6
+Added Member To Class: ClassName=MCU Member=Component C1 Cap Semi
+Added Member To Class: ClassName=MCU Member=Component C2 Cap Semi
+Added Member To Class: ClassName=MCU Member=Component C3 Cap Semi
+Added Member To Class: ClassName=MCU Member=Component C4 Cap Semi
+Added Member To Class: ClassName=MCU Member=Component C7 Cap Semi
+Added Member To Class: ClassName=MCU Member=Component C9 Cap Semi
+Added Member To Class: ClassName=MCU Member=Component C11 Cap Semi
+Added Member To Class: ClassName=Temp_Sensor Member=Component C14 Cap Semi
+Added Member To Class: ClassName=Eth_to_SPI Member=Component C20 6.8nF
+Added Member To Class: ClassName=Eth_to_SPI Member=Component C21 6.8nF
+Added Member To Class: ClassName=Eth_to_SPI Member=Component C23 22nF
+Added Member To Class: ClassName=Eth_to_SPI Member=Component C25 18pF
+Added Member To Class: ClassName=Eth_to_SPI Member=Component C26 18pF
+Added Member To Class: ClassName=Eth_to_SPI Member=Component C27 4.7uF
+Added Member To Class: ClassName=CANbus Member=Component C30 GRM1885C1H101JA01D
+Added Member To Class: ClassName=CANbus Member=Component C31 GRM1885C1H101JA01D
+Added Member To Class: ClassName=CANbus Member=Component C32 GRM1885C1H101JA01D
+Added Member To Class: ClassName=CANbus Member=Component C33 GRM188R71H472KA01D
+Added Member To Class: ClassName=Radio Member=Component C35 CAP 1uF 6.3V 0402(1005)
+Added Member To Class: ClassName=MCU_Power Member=Component C37 Cap
+Added Member To Class: ClassName=MCU_Power Member=Component C39 Cap
+Added Member To Class: ClassName=MCU_Power Member=Component C41 Cap
+Added Member To Class: ClassName=MCU_Power Member=Component C42 Cap
+Added Member To Class: ClassName=MCU Member=Component P3 Header 3
+Added Member To Class: ClassName=MCU Member=Component P4 FTSH-105-01-L-DV-K
+Added Member To Class: ClassName=MCU Member=Component P5 Header 3
+Added Member To Class: ClassName=MCU Member=Component P6 Header 3
+Added Member To Class: ClassName=MCU Member=Component R1 Res3
+Added Member To Class: ClassName=MCU Member=Component R2 Res3
+Added Member To Class: ClassName=Eth_to_SPI Member=Component R10 4.7K
+Added Member To Class: ClassName=Eth_to_SPI Member=Component R12 49R9
+Added Member To Class: ClassName=Eth_to_SPI Member=Component R14 33R
+Added Member To Class: ClassName=Eth_to_SPI Member=Component R16 33R
+Added Member To Class: ClassName=Eth_to_SPI Member=Component R19 0R
+Added Member To Class: ClassName=Eth_to_SPI Member=Component R21 49R9
+Added Member To Class: ClassName=isoSPI_to_SPI Member=Component R24 Res1
+Added Member To Class: ClassName=CANbus Member=Component R29 Res3
+Added Member To Class: ClassName=MCU Member=Component U2 MK66FX1M0VLQ18
+Added Member To Class: ClassName=Temp_Sensor Member=Component U3 MCP9808T-E/MS
+Added Member To Class: ClassName=isoSPI_to_SPI Member=Component U5 LTC6820IMS#PBF
+Added Member To Class: ClassName=STIM300IMU Member=Component U7 ADG3301BKSZ-REEL7

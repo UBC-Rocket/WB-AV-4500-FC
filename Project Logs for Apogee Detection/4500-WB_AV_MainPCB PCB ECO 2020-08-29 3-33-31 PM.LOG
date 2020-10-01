@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=NetC9_1 Pin=U2-1
+Removed Pin From Net: NetName=3.3V Pin=U2-4
+Removed Pin From Net: NetName=3.3V Pin=U2-5
+Removed Pin From Net: NetName=NetC9_1 Pin=U2-6
+Removed Pin From Net: NetName=GND Pin=U2-7
+Removed Member From Class: ClassName=Eth_to_SPI Member=C?
+Change Component Designator: OldDesignator=C? NewDesignator=C20
+Change Component Designator: OldDesignator=C? NewDesignator=C27
+Change Component Designator: OldDesignator=C? NewDesignator=C28
+Change Component Designator: OldDesignator=C? NewDesignator=C29
+Change Component Designator: OldDesignator=C? NewDesignator=C30
+Change Component Designator: OldDesignator=C? NewDesignator=C31
+Change Component Designator: OldDesignator=J? NewDesignator=J7
+Added Pin To Net: NetName=3.3V Pin=U2-1
+Added Pin To Net: NetName=NetC9_1 Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=3.3V Pin=U2-4
+Added Pin To Net: NetName=Reset_b Pin=U2-4
+Added Pin To Net: NetName=3.3V Pin=U2-5
+Added Pin To Net: NetName=NetC9_1 Pin=U2-6
+Added Pin To Net: NetName=PTA1 Pin=U2-6
+Added Pin To Net: NetName=BSWDIO Pin=U2-7
+Added Pin To Net: NetName=GND Pin=U2-7
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetC20_1
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetC30_2
+Added Pin To Net: NetName=NetC31_2 Pin=C31-2
+Added Pin To Net: NetName=NetC31_2 Pin=R31-1
+Added Pin To Net: NetName=NetC31_2 Pin=R32-2
+Added Net: Name=NetC31_2
+Added Member To Class: ClassName=Eth_to_SPI Member=Component C20 1nF/2kV
+Added Member To Class: ClassName=CANbus Member=Component C27 GRM1885C1H101JA01D
+Added Member To Class: ClassName=CANbus Member=Component C29 GRM1885C1H101JA01D
+Added Member To Class: ClassName=CANbus Member=Component C30 GRM188R71H472KA01D
+Added Member To Class: ClassName=CANbus Member=Component C31 GRM188R71H472KA01D
+Added Member To Class: ClassName=MK66F Member=Component U2 Part Number: MKL02Z32VFG4
