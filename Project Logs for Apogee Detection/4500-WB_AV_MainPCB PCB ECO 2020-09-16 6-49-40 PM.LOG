@@ -1,0 +1,3 @@
+Removed Member From Class: ClassName=MCU_Power Member=P9
+Change Component Footprint: Designator=J7 Old Footprint=57450773 New Footprint=2301840-1
+Added Member To Class: ClassName=MCU_Power Member=Component P10 Header 15
