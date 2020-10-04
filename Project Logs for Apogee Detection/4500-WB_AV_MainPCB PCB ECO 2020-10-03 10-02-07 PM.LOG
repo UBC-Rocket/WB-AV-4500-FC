@@ -1,0 +1,159 @@
+Removed Pin From Net: NetName=PTE5 Pin=E*1-3
+Removed Pin From Net: NetName=PTE5 Pin=E*1-3
+Removed Pin From Net: NetName=PTE4 Pin=E*1-4
+Removed Pin From Net: NetName=PTE4 Pin=E*1-4
+Removed Pin From Net: NetName=PTE5 Pin=P8-2
+Removed Pin From Net: NetName=PTE4 Pin=P8-3
+Removed Pin From Net: NetName=CAN1_N Pin=TP1-1
+Removed Pin From Net: NetName=CAN1_P Pin=TP2-1
+Removed Pin From Net: NetName=CAN2_N Pin=TP3-1
+Removed Pin From Net: NetName=CAN2_P Pin=TP4-1
+Removed Member From Class: ClassName=CANbus Member=TP1
+Removed Member From Class: ClassName=CANbus Member=TP2
+Removed Member From Class: ClassName=CANbus Member=TP3
+Removed Member From Class: ClassName=CANbus Member=TP4
+Change component parameters: Designator = "J2" ("J2"); Footprint = "*1140084168"; UniqueID = "\ULGWEYFQ\AQNVNXMM" ("\ULGWEYFQ\AQNVNXMM")
+Change component parameters (AddParameter): Name = "Category"; Value = "Memory Connectors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/24241/11400841-283410-24241569.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/24241/11400841-283410-24241569.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/28408/11400841-28408193.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/28408/11400841-28408193.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/9464/1140084168-9464901.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/9464/1140084168-9464901.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.ciiva.com/48965/70323450-48965706.pdf?src-supplier=Allied+Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.ciiva.com/48965/70323450-48965706.pdf?src-supplier=Allied+Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.ciiva.com/16655/1140084168-16655293.pdf?src-supplier=Avnet+Europe"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.ciiva.com/16655/1140084168-16655293.pdf?src-supplier=Avnet+Europe"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Connector Type"; Value = "Connector"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Material"; Value = "Copper Alloy,Copper"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Depth"; Value = "11.45mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digi-Key_Part_Number"; Value = "114-00841-68-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.ca/product-detail/en/amphenol-icc-commercial-products/114-00841-68/114-00841-68-1-ND/2187101?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Flammability Rating"; Value = "UL94 V-0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = "Receptacle"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.55mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Housing Material"; Value = "Polymer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "15.6mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Amphenol Commercial"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "1140084168"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Amphenol ICC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "1140084168"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Contacts"; Value = "8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Orientation"; Value = "Right Angle"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "7500"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "1.1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=1.28000, 10=1.13000, 25=1.06320, 50=1.01900, 100=0.97480, 250=0.88616, 500=0.79752 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1140084168/Amphenol%20ICC/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "27520"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "114-00841-68-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J3" ("J3"); Footprint = "FCI_10118193-0001LF_10118193-0001LF(Primary)"; UniqueID = "\ULGWEYFQ\AHWCAGAY" ("\ULGWEYFQ\AHWCAGAY")
+Change component parameters (AddParameter): Name = "Category"; Value = "USB Connectors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/851/10118193-851106.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/851/10118193-851106.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/4598/10118193ac-197151-4598799.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/4598/10118193ac-197151-4598799.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/26853/getdatasheetpartid-418618-26853893.pdf?src-supplier=Verical"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/26853/getdatasheetpartid-418618-26853893.pdf?src-supplier=Verical"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.ciiva.com/14802/10118193-0001lf-webpage-14802386.pdf?src-supplier=Arrow+Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.ciiva.com/14802/10118193-0001lf-webpage-14802386.pdf?src-supplier=Arrow+Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.ciiva.com/851/10118193-851108.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.ciiva.com/851/10118193-851108.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink6Description"; Value = "https://datasheet.ciiva.com/851/10118193-851107.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink6URL"; Value = "https://datasheet.ciiva.com/851/10118193-851107.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink7Description"; Value = "https://datasheet.ciiva.com/14618/70236827-14618887.pdf?src-supplier=Allied+Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink7URL"; Value = "https://datasheet.ciiva.com/14618/70236827-14618887.pdf?src-supplier=Allied+Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Connector Type"; Value = "USB,Receptacle"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Material"; Value = "Copper Alloy"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "1.8A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Depth"; Value = "5.67mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digi-Key_Part_Number"; Value = "609-4616-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.ca/product-detail/en/amphenol-fci/10118193-0001LF/609-4616-1-ND/2785380?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Features"; Value = "Shielded"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Flammability Rating"; Value = "UL94 V-0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = "Female"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Housing Material"; Value = "Polymer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Insulation Resistance"; Value = "1GR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "7.86mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Amphenol FCI"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "10118193-0001LF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Voltage Rating (AC)"; Value = "100V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Amphenol FCI"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount,Horizontal"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "10118193-0001LF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Contacts"; Value = "5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Ports"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Terminals"; Value = "5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Orientation"; Value = "Right Angle"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "1200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "0.65mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=0.45000, 10=0.43000, 25=0.36840, 50=0.31320, 100=0.30090, 250=0.27016, 500=0.25788 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/10118193-0001LF/Amphenol%20FCI/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "48313"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "609-4616-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=P11(HDR1X2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P12(HDR1X2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P13(HDR1X2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CAN1_TX Pin=P11-1
+Added Pin To Net: NetName=CAN1_RX Pin=P11-2
+Added Pin To Net: NetName=CAN2_TX Pin=P12-1
+Added Pin To Net: NetName=CAN2_RX Pin=P12-2
+Added Pin To Net: NetName=IMU_TX Pin=P13-1
+Added Pin To Net: NetName=IMU_RX Pin=P13-2
+Change Net Name : Old Net Name=PTB2 New Net Name=SCL0
+Change Net Name : Old Net Name=PTB3 New Net Name=SDA0
+Added Pin To Net: NetName=RADIO_RX Pin=E*1-3
+Added Pin To Net: NetName=RADIO_RX Pin=E*1-3
+Added Pin To Net: NetName=RADIO_RX Pin=P8-2
+Added Pin To Net: NetName=RADIO_RX Pin=U2-123
+Added Net: Name=RADIO_RX
+Added Pin To Net: NetName=RADIO_TX Pin=E*1-4
+Added Pin To Net: NetName=RADIO_TX Pin=E*1-4
+Added Pin To Net: NetName=RADIO_TX Pin=P8-3
+Added Pin To Net: NetName=RADIO_TX Pin=U2-124
+Added Net: Name=RADIO_TX
+Added Member To Class: ClassName=CANbus Member=Component P11 Header 2
+Added Member To Class: ClassName=CANbus Member=Component P12 Header 2
+Added Member To Class: ClassName=STIM300IMU Member=Component P13 Header 2
+Change Room Name: Old Name=Regulators1 New Name=Radio
+Change Room Scope: Old Scope=InComponentClass('Regulators1') New Scope=InComponentClass('Radio')
+Added Room: Name=CANbus
+Added Room: Name=Eth_to_SPI
+Added Room: Name=GPS
+Added Room: Name=isoSPI_to_SPI
+Added Room: Name=MCU
+Added Room: Name=MCU_Power
+Added Room: Name=STIM300IMU
+Added Room: Name=Temp_Sensor
