@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Pablo Fernandez\Documents\UBC Rocket\WB\WB-HW\4500-WB_AV_MainPCB\WB-AV-4500-FC\4500-WB_AV_MainPCB.PcbDoc
-Date     : 2020-10-04
-Time     : 3:53:57 PM
+Date     : 2020-10-05
+Time     : 12:32:05 PM
 
 Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
 Rule Violations :0
@@ -48,4 +48,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:03
+Time Elapsed        : 00:00:02
