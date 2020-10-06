@@ -1,9 +1,13 @@
-Output: Bill of Materials
-Type  : BOM
-From  : Variant [[No Variations]] of Project [Apogee Detection.PrjPCB]
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Apogee Detection.PrjPCB]
+   Generated File[4500-WB_AV_MainPCB-RoundHoles.TXT]
+   Generated File[4500-WB_AV_MainPCB-SlotHoles.TXT]
+   Generated File[4500-WB_AV_MainPCB.LDP]
+   Generated File[4500-WB_AV_MainPCB.DRR]
 
 
-Files Generated   : 0
+Files Generated   : 4
 Documents Printed : 0
 
-Finished Output Generation At 8:19:31 PM On 2019-10-10
+Finished Output Generation At 7:14:11 PM On 2020-10-05
