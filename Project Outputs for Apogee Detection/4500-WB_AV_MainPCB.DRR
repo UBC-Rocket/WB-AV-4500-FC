@@ -1,0 +1,25 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: 4500-WB_AV_MainPCB.PcbDoc   2020-10-05  7:14:10 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : 4500-WB_AV_MainPCB-RoundHoles.TXT
+ASCII SlotHoles File : 4500-WB_AV_MainPCB-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.2mm)                                              Round             996       PTH        0.00inch (0.00mm)
+T2      10mil (0.254mm)                                           Round             9         PTH        0.00inch (0.00mm)
+T3      20mil (0.5mm)                                             Slot              2         PTH        0.00inch (0.00mm)
+T4      35mil (0.9mm)                                             Round             27        PTH        0.00inch (0.00mm)
+T5      41mil (1.04mm)                                            Round             81        PTH        0.00inch (0.00mm)
+T6      60mil (1.524mm)                                           Round             1         PTH        0.00inch (0.00mm)
+T7      67mil (1.702mm)                                           Round             4         PTH        0.00inch (0.00mm)
+T8      120mil (3.05mm)                                           Round             4         PTH        0.00inch (0.00mm)
+T9      122mil (3.1mm)                                            Round             2         PTH        0.00inch (0.00mm)
+T10     128mil (3.251mm)                                          Round             4         PTH        0.00inch (0.00mm)
+T11     120mil (3.05mm)                                           Round             8         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              1138
+
+Total Processing Time (hh:mm:ss) : 00:00:01

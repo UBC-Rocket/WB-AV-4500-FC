@@ -1,0 +1,38 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: 4500-WB_AV_MainPCB.GBR   2020-10-05  7:12:34 PM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GTL                Top Layer                               
+.G1                 Int1 (GND)                              
+.G2                 Int2 (PWR)                              
+.GBL                Bottom Layer                            
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GM1                Mechanical 1                            
+.GM2                Top 3D Body                             
+.GM3                Top Courtyard                           
+.GM4                Mechanical 4                            
+.GM5                Mechanical 5                            
+.GM6                Top Assembly                            
+.GM7                Mechanical 7                            
+.GM8                Top Component Center                    
+.GM13               Mechanical 13                           
+.GM15               Mechanical 15                           
+.GM16               Mechanical 16                           
+.GM20               Bottom Assembly                         
+.GM21               Bottom Courtyard                        
+.GM23               Bottom 3D Body                          
+.GM24               Bottom Component Center                 
+.GM31               Mechanical 31                           
+.GKO                Keep-Out Layer                          
+.GPT                Top Pad Master                          
+.GPB                Bottom Pad Master                       
+------------------------------------------------------------------------------------------
