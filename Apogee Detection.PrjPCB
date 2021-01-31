@@ -1228,6 +1228,23 @@ GenerateClassCluster=0
 DocumentUniqueId=RVISTQGS
 
 [Document71]
+DocumentPath=Libraries\PESD3V3L4UG,115.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PVXQRURR
+
+[Document72]
 DocumentPath=Libraries\06031C682KAT2A.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1244,7 +1261,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SPOEWVGI
 
-[Document72]
+[Document73]
 DocumentPath=Libraries\06035C103KAT2A.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1261,7 +1278,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UOTENFIL
 
-[Document73]
+[Document74]
 DocumentPath=Libraries\EMK107BBJ106MA-T.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1278,7 +1295,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QEKTCLBT
 
-[Document74]
+[Document75]
 DocumentPath=Libraries\06033C104JAT2A.pcblib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1295,7 +1312,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ADDFUBKB
 
-[Document75]
+[Document76]
+DocumentPath=Libraries\PESD3V3L4UG,115.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=RXBFKXAP
+
+[Document77]
 DocumentPath=Libraries\06036D475KAT2A.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1312,7 +1346,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IYVDUHGN
 
-[Document76]
+[Document78]
 DocumentPath=Libraries\06031A180JAT2A.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1329,7 +1363,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JUUBWTYI
 
-[Document77]
+[Document79]
 DocumentPath=GPS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1346,7 +1380,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ISLILQFM
 
-[Document78]
+[Document80]
 DocumentPath=CANbus.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1363,7 +1397,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EUJXKIYP
 
-[Document79]
+[Document81]
 DocumentPath=Libraries\TJA1048\TJA1048.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1380,7 +1414,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ECZPDHGU
 
-[Document80]
+[Document82]
 DocumentPath=Flight_Computer.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1397,7 +1431,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FUQBMPJF
 
-[Document81]
+[Document83]
 DocumentPath=Radio_XBP9X_DMRS_001.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1414,7 +1448,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IGBVIFAE
 
-[Document82]
+[Document84]
 DocumentPath=STIM300IMU.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1431,7 +1465,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LCKTPBHO
 
-[Document83]
+[Document85]
 DocumentPath=Libraries\MIC23155\MIC23155.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1448,7 +1482,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YGNXRWVM
 
-[Document84]
+[Document86]
 DocumentPath=Libraries\MIC23155\MIC23155.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1465,7 +1499,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QCACATOS
 
-[Document85]
+[Document87]
 DocumentPath=Libraries\744029001.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1482,7 +1516,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document86]
+[Document88]
 DocumentPath=CAMtastic1.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1499,7 +1533,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document87]
+[Document89]
 DocumentPath=CAMtastic2.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1516,7 +1550,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document88]
+[Document90]
 DocumentPath=Apogee Detection.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1533,7 +1567,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document89]
+[Document91]
 DocumentPath=Apogee Detection.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1550,7 +1584,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document90]
+[Document92]
 DocumentPath=WB-AV-4500-FC.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
