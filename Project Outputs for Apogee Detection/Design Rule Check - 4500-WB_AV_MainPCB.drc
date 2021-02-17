@@ -1,12 +1,15 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Pablo Fernandez\Documents\UBC Rocket\WB\WB-HW\4500-WB_AV_MainPCB\WB-AV-4500-FC\4500-WB_AV_MainPCB.PcbDoc
-Date     : 2020-10-05
-Time     : 12:32:05 PM
-
-Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
-Rule Violations :0
+Date     : 2021-02-16
+Time     : 7:34:31 PM
 
 Processing Rule : Clearance Constraint (Gap=7mil) (IsStitchingVia and InNet('GND')),((IsVia and (Not IsStitchingVia)) Or IsPad)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=10mil) (InNamedPolygon('gnd') Or InNamedPolygon('GND_L04_P041')),(InDifferentialPair('CAN1') Or InDifferentialPair('CAN2')  Or InDifferentialPair('TxD') Or InDifferentialPair('RxD') Or InDifferentialPair('eth_rx') Or InDifferentialPair('eth_tx'))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
 Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (InNet('No Net')),(All)
@@ -19,6 +22,12 @@ Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
 Processing Rule : Width Constraint (Min=6mil) (Max=200mil) (Preferred=12mil) (All)
+Rule Violations :0
+
+Processing Rule : Differential Pairs Uncoupled Length using the Gap Constraints (Min=11mil) (Max=14mil) (Prefered=11.5mil)  and Width Constraints (Min=6mil) (Max=6mil) (Prefered=6mil) (InDifferentialPair('CAN2') Or InDifferentialPair('CAN1'))
+Rule Violations :0
+
+Processing Rule : Differential Pairs Uncoupled Length using the Gap Constraints (Min=6mil) (Max=7mil) (Prefered=6mil)  and Width Constraints (Min=6mil) (Max=6mil) (Prefered=6mil) (InDifferentialPair('TxD') Or InDifferentialPair('RxD') Or InDifferentialPair('eth_rx') Or InDifferentialPair('eth_tx'))
 Rule Violations :0
 
 Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
@@ -36,7 +45,7 @@ Rule Violations :0
 Processing Rule : Silk To Solder Mask (Clearance=1mil) (IsPad),(All)
 Rule Violations :0
 
-Processing Rule : Silk to Silk (Clearance=1mil) (All),(All)
+Processing Rule : Silk to Silk (Clearance=0mil) (All),(All)
 Rule Violations :0
 
 Processing Rule : Net Antennae (Tolerance=0mil) (All)
@@ -48,4 +57,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:03
