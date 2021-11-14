@@ -23,11 +23,14 @@ DefaultPcbPcad=0
 ReorderDocumentsOnCompile=1
 NameNetsHierarchically=0
 PowerPortNamesTakePriority=0
+AutoSheetNumbering=0
+AutoCrossReferences=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
+IsProjectConflictPreventionWarningsEnabled=1
 OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
@@ -752,23 +755,6 @@ GenerateClassCluster=0
 DocumentUniqueId=EVONOYIH
 
 [Document43]
-DocumentPath=Eth_to_SPI.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=3
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=DIXJXKGS
-
-[Document44]
 DocumentPath=Temp_Sensor.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -785,7 +771,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SMMZLAKA
 
-[Document45]
+[Document44]
 DocumentPath=isoSPI_to_SPI.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -802,7 +788,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PDIMQFVA
 
-[Document46]
+[Document45]
 DocumentPath=MCU_Power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -819,7 +805,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YXTNYZXB
 
-[Document47]
+[Document46]
 DocumentPath=MCU.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -836,7 +822,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XHOHBTEE
 
-[Document48]
+[Document47]
 DocumentPath=Libraries\PMEG4010CPA\Imported PMEG4010CPA.lia\PMEG4010CPA.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -853,7 +839,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UNBDASVB
 
-[Document49]
+[Document48]
 DocumentPath=Libraries\B5819WS-TP\DIODE SCHOTTKY 40V 1A SOD323.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -870,7 +856,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GWNQIPUE
 
-[Document50]
+[Document49]
 DocumentPath=Libraries\FDMS86101A\FDMS86101A.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -887,7 +873,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LAQFEYOF
 
-[Document51]
+[Document50]
 DocumentPath=Libraries\S1B\S1B.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -904,7 +890,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PTCXLDDM
 
-[Document52]
+[Document51]
 DocumentPath=Libraries\MOC207M\MOC207M.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -921,7 +907,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TDJSNHAA
 
-[Document53]
+[Document52]
 DocumentPath=Libraries\MOC207M\MOC207M.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -938,7 +924,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IRSSCYNN
 
-[Document54]
+[Document53]
 DocumentPath=Libraries\Harwin Connectors\Harwin Connectors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -955,7 +941,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NRCESOWB
 
-[Document55]
+[Document54]
 DocumentPath=Libraries\Harting Connectors\Harting Connectors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -972,7 +958,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OFSKHUOQ
 
-[Document56]
+[Document55]
 DocumentPath=Apogee Detection.Annotation
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -989,7 +975,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document57]
+[Document56]
 DocumentPath=Libraries\Harting Connectors\77-pin.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1006,7 +992,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EVWWCQZF
 
-[Document58]
+[Document57]
 DocumentPath=Libraries\MCT0603MD4701BP100.pcblib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1023,7 +1009,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XBGMBTBI
 
-[Document59]
+[Document58]
 DocumentPath=Libraries\MCT06030C3300FP500.pcblib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1040,7 +1026,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AYMWPQIR
 
-[Document60]
+[Document59]
 DocumentPath=Libraries\CRCW060310R0FKEA.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1057,7 +1043,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HVCNWQDD
 
-[Document61]
+[Document60]
 DocumentPath=Libraries\CRCW060333R0FKEA.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1074,7 +1060,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XLKPSOAD
 
-[Document62]
+[Document61]
 DocumentPath=Libraries\TNPW060349R9BEEA.pcblib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1091,7 +1077,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LUVYHORG
 
-[Document63]
+[Document62]
 DocumentPath=Libraries\CRCW060312K4FKEAHP.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1108,7 +1094,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UWDFGKAA
 
-[Document64]
+[Document63]
 DocumentPath=Libraries\CRCW06031M00FKEA.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1125,7 +1111,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BYWUVPBJ
 
-[Document65]
+[Document64]
 DocumentPath=Libraries\CRCW06030000Z0EAC.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1142,7 +1128,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BNUCCEFN
 
-[Document66]
+[Document65]
 DocumentPath=Libraries\06035C102KAT2A.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1159,7 +1145,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YLCIDGRH
 
-[Document67]
+[Document66]
 DocumentPath=Libraries\06033C223KAT2A.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1176,7 +1162,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IJRTWMYB
 
-[Document68]
+[Document67]
 DocumentPath=Libraries\Molex Connectors\Molex Connectors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1193,7 +1179,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FEWSCHWN
 
-[Document69]
+[Document68]
 DocumentPath=Libraries\MSOP-16_MS.lia\MSOP-16_MS.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1210,7 +1196,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MYMXGJPM
 
-[Document70]
+[Document69]
 DocumentPath=Libraries\QFN50P300X300X100-17N\Imported QFN50P300X300X100-17N.lia\QFN50P300X300X100-17N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1227,7 +1213,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RVISTQGS
 
-[Document71]
+[Document70]
 DocumentPath=Libraries\PESD3V3L4UG,115.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1244,7 +1230,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PVXQRURR
 
-[Document72]
+[Document71]
 DocumentPath=Libraries\06031C682KAT2A.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1261,7 +1247,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SPOEWVGI
 
-[Document73]
+[Document72]
 DocumentPath=Libraries\06035C103KAT2A.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1278,7 +1264,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UOTENFIL
 
-[Document74]
+[Document73]
 DocumentPath=Libraries\EMK107BBJ106MA-T.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1295,7 +1281,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QEKTCLBT
 
-[Document75]
+[Document74]
 DocumentPath=Libraries\06033C104JAT2A.pcblib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1312,7 +1298,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ADDFUBKB
 
-[Document76]
+[Document75]
 DocumentPath=Libraries\PESD3V3L4UG,115.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1329,7 +1315,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RXBFKXAP
 
-[Document77]
+[Document76]
 DocumentPath=Libraries\06036D475KAT2A.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1346,7 +1332,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IYVDUHGN
 
-[Document78]
+[Document77]
 DocumentPath=Libraries\06031A180JAT2A.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1363,7 +1349,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JUUBWTYI
 
-[Document79]
+[Document78]
 DocumentPath=GPS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1380,7 +1366,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ISLILQFM
 
-[Document80]
+[Document79]
 DocumentPath=CANbus.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1397,7 +1383,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EUJXKIYP
 
-[Document81]
+[Document80]
 DocumentPath=Libraries\TJA1048\TJA1048.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1414,7 +1400,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ECZPDHGU
 
-[Document82]
+[Document81]
 DocumentPath=Flight_Computer.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1431,7 +1417,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FUQBMPJF
 
-[Document83]
+[Document82]
 DocumentPath=Radio_XBP9X_DMRS_001.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1448,7 +1434,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IGBVIFAE
 
-[Document84]
+[Document83]
 DocumentPath=STIM300IMU.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1465,7 +1451,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LCKTPBHO
 
-[Document85]
+[Document84]
 DocumentPath=Libraries\MIC23155\MIC23155.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1482,7 +1468,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YGNXRWVM
 
-[Document86]
+[Document85]
 DocumentPath=Libraries\MIC23155\MIC23155.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1499,7 +1485,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QCACATOS
 
-[Document87]
+[Document86]
 DocumentPath=Libraries\744029001.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1516,7 +1502,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document88]
+[Document87]
 DocumentPath=CAMtastic1.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1533,7 +1519,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document89]
+[Document88]
 DocumentPath=CAMtastic2.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1550,7 +1536,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document90]
+[Document89]
 DocumentPath=Apogee Detection.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1567,7 +1553,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document91]
+[Document90]
 DocumentPath=Apogee Detection.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1584,7 +1570,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document92]
+[Document91]
 DocumentPath=WB-AV-4500-FC.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1601,7 +1587,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FXIVDDHY
 
-[Document93]
+[Document92]
 DocumentPath=CAMtastic3.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1618,7 +1604,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document94]
+[Document93]
 DocumentPath=CAMtastic4.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1941,7 +1927,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=SEC30CDA7A04ED2
+TargetPrinter=OneNote (Desktop)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -2041,7 +2027,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=SEC30CDA7A04ED2
+TargetPrinter=OneNote (Desktop)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CompositeDrill
 OutputName1=Composite Drill Drawing
@@ -2168,6 +2154,18 @@ OutputName6=Report Project Hierarchy
 OutputDocumentPath6=
 OutputVariantName6=[No Variations]
 OutputDefault6=0
+OutputType7=BOM_ReportCompare
+OutputName7=BOM Compare
+OutputDocumentPath7=
+OutputVariantName7=[No Variations]
+OutputDefault7=0
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType8=Export Comments
+OutputName8=Export Comments
+OutputDocumentPath8=
+OutputVariantName8=[No Variations]
+OutputDefault8=0
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup7]
 Name=Other Outputs
@@ -2708,6 +2706,8 @@ MultiChannelAlternate=2
 AlternateItemFail=3
 Type122=2
 Type123=1
+Type124=1
+Type125=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
@@ -3255,12 +3255,12 @@ UpdateToLatestRevision=1
 PartTypes=0
 
 [Comparison Options]
-ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
-ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
-ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
-ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
-ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|Confirm=0|UseName=0|InclAllRules=0
-ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
+ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|UseName=0|InclAllRules=0
+ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
 
 [SmartPDF]
 PageOptions=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
