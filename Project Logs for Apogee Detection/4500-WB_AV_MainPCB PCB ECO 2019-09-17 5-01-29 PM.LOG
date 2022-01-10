@@ -1,8 +1,0 @@
-Added Component: Designator=J?(CONN_5747847-4)
-Add component. Clean all parameters for all variants
-Add component (AddParameter): Name = "Built_By"; Value = "EMA_UL_Team"; VariantName = "[No Variations]"
-Add component (AddParameter): Name = "C"; Value = "Copyright (C) 2015 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
-Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "5747847-4"; VariantName = "[No Variations]"
-Add component (AddParameter): Name = "Value"; Value = "5747847-4"; VariantName = "[No Variations]"
-Add component (AddParameter): Name = "Vendor"; Value = "TE Connectivity"; VariantName = "[No Variations]"
-Added Member To Class: ClassName=MK66F Member=Component J? 5747847-4

@@ -1,6 +1,0 @@
-Added Pin To Net: NetName=RADIO_RST Pin=E*1-6
-Added Pin To Net: NetName=RADIO_RST Pin=E*1-6
-Added Pin To Net: NetName=RADIO_RST Pin=U2-125
-Added Net: Name=RADIO_RST
-Added Room: Name=CANbus
-Added Room: Name=STIM300IMU

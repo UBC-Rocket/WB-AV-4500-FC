@@ -1,3 +1,0 @@
-Removed Member From Class: ClassName=isoSPI_to_SPI Member=J8
-Change Component Footprint: Designator=U8 Old Footprint=FP-S8-2-MFG New Footprint=FP-S8-2-IPC_C
-Added Member To Class: ClassName=isoSPI_to_SPI Member=Component J5 1-5747150-6

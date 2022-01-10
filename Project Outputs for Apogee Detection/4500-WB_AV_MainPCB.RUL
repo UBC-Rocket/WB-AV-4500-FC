@@ -1,7 +1,0 @@
-DRC Rules Export File for PCB: C:\Users\Pablo Fernandez\Documents\UBC Rocket\WB\WB-HW\4500-WB_AV_MainPCB\WB-AV-4500-FC\4500-WB_AV_MainPCB.PcbDoc
-RuleKind=Clearance|RuleName=Clearance_1|Scope=Board|Minimum=10.00
-RuleKind=Clearance|RuleName=Stitching GND|Scope=Board|Minimum=7.00
-RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
-RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
-RuleKind=Width|RuleName=Width|Scope=Board|Minimum=6.00
-RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=6.00
