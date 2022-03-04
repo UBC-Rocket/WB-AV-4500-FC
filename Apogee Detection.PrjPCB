@@ -1553,6 +1553,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FXIVDDHY
 
+[Document90]
+DocumentPath=..\..\Downloads\ul_max3057asa-T(1)\AltiumDesigner\2022-02-25_04-53-46\Project Outputs for max3057asa&plus_T\max3057asa&plus_T.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Apogee Detection\Design Rule Check - 4500-WB_AV_MainPCB.html
 DItemRevisionGUID=
