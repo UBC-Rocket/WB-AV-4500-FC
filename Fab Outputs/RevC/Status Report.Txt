@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Apogee Detection.PrjPCB]
+   Generated File[4500-WB_AV_MainPCB-RoundHoles.TXT]
+   Generated File[4500-WB_AV_MainPCB-SlotHoles.TXT]
+   Generated File[4500-WB_AV_MainPCB.LDP]
+   Generated File[4500-WB_AV_MainPCB.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 11:59:30 AM On 2022-03-13
